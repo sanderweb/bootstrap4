@@ -1,0 +1,18 @@
+/*NAVIGATION*/
+div.navbar-collapse {    
+    justify-content: flex-end;
+}
+
+/*HEADER*/
+
+div.relative {
+   position: relative; 
+}
+
+img.banner-img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index:  -5;
+    
+}
